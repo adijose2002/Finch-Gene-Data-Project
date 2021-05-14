@@ -8,7 +8,6 @@ For this project, I will work with a portion of this gene, known as ALX1, from f
 File: project_02.py
 
 @author:   <Adithya Jose>
-UIC NetId: <668871768>
 Due Date:  <11/02/2020>
 """
 
